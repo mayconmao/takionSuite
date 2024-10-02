@@ -1,0 +1,24 @@
+export const baseString = "01004";
+export const commands = {
+  LigaDesliga: "001000000000006",
+  TV: "002000000000007",
+  Home: "003000000000008",
+  SetaCima: "010000000000015",
+  Mute: "009000000000014",
+  SetaEsquerda: "012000000000017",
+  SetaDireita: "013000000000018",
+  OK: "014000000000019",
+  Voltar: "015000000000020",
+  SetaBaixo: "011000000000016",
+  Sair: "016000000000021",
+  VolumeMais: "004000000000009",
+  VolumeMenos: "005000000000010",
+  CanalMais: "006000000000011",
+  CanalMenos: "007000000000012",
+  Entrada: "008000000000013",
+  Rew: "017000000000022",
+  Fwd: "018000000000023",
+  Pausa: "019000000000024",
+  Play: "020000000000025",
+  Streaming: "000streaming000"
+};
